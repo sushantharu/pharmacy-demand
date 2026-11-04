@@ -49,4 +49,5 @@ Default lead time is generic
 Prototype: no authentication or monitoring
 Live Demo
 Add Streamlit URL here
+https://pharmacy-demand.streamlit.app/
 
