@@ -1,0 +1,10 @@
+3. Technology Stack
+Technology Role in the project
+Python Core language for ETL, analysis, modelling, and inventory calculations.
+pandas CSV loading, cleaning, filtering, aggregation, and time-series preparation.
+scikit-learn Regression estimator and model-evaluation tools, depending on the final training module.
+Streamlit Interactive multi-page dashboard.
+Plotly / Matplotlib / Seaborn Charts and visual exploration if imported by the dashboard or EDA modules.
+joblib / pickle Common options for saving a trained model artifact; use whichever the actual training code uses.
+Git and GitHub Version control, source-code hosting, and deployment source.
+Streamlit Community Cloud Suggested simple hosting option for a Streamlit project.
